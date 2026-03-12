@@ -61,7 +61,7 @@ Answer: `threads`
 
 **Explanation:**
 
-We did find a threads account with the username `v3n0mbyt3_` and there's also an Instagram profile for this user but we find nothing on their [Instagram](https://www.instagram.com/v3n0mbyt3_/) account. Sine we have found some useful information on Threads account, the answer to this question will be `threads`
+We did find a threads account with the username `v3n0mbyt3_` and there's also an Instagram profile for this user but we find nothing on their [Instagram](https://www.instagram.com/v3n0mbyt3_/) account. Since we have found some useful information on Threads account, the answer to this question will be `threads`
 
 2. **_What is the value of the flag?_**
 
@@ -116,7 +116,7 @@ We find a peculiar recording of their operation
 
 <img width="857" height="216" alt="image" src="https://github.com/user-attachments/assets/d770a259-cf3f-4656-8460-c365e084afe0" />
 
-[Link of the Operation Recording](https://soundcloud.com/v1x3n-195859753/prototype2)
+[Link to the Operation Recording](https://soundcloud.com/v1x3n-195859753/prototype2)
 
 After playing this recording, we find that they have a github account and they also mention on how they bypassed the defences
 
