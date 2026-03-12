@@ -67,3 +67,74 @@ We did decode the base64 text and got our flag
 
 
 ______________________________________
+
+**Task 2: The Sidekick**
+
+Below the same thread from the previous task, we see another peculiar comment `Hidden content ------------------------` and we can also see some accounts commenting. The comments are mostly about bidding. 
+
+This points to accounts trying to buy harvest data throught cryptocurrency. 
+
+Since we already have two operator's accounts: `v3n0mbyt3_` and `_myst1cv1x3n_` 
+
+Now we try to find other accounts associated with `_myst1cv1x3n_`
+
+<img width="632" height="619" alt="image" src="https://github.com/user-attachments/assets/f79a33c9-748a-488f-b94b-7581ba10d498" />
+
+We can see that this second operator has an instagram account
+
+<img width="747" height="255" alt="image" src="https://github.com/user-attachments/assets/71e837fd-c7ef-483b-a0d5-e1909bf3586f" />
+
+We try to look through their posts and come across a reel with some calming music 
+
+![Screenshot_2026-03-12-11-37-43-43_1c337646f29875672b5a61192b9010f9](https://github.com/user-attachments/assets/70263792-fed4-4d91-a314-86b1bae7c3f0)
+
+From the reel description, we see a link to soundcloud
+
+![Screenshot_2026-03-12-11-37-43-43_1c337646f29875672b5a61192b9010f9(1)](https://github.com/user-attachments/assets/a7e1950c-3568-4898-8b67-b4df56bfdbdf)
+
+We visit this link and open their profile
+
+<img width="1337" height="907" alt="image" src="https://github.com/user-attachments/assets/c3eb2bc5-2d29-4f6a-a4b4-69937c24e7f1" />
+
+<img width="1318" height="861" alt="image" src="https://github.com/user-attachments/assets/feeac204-a56f-4552-a1ba-4761bd46a64e" />
+
+We find a peculiar recording of their operation
+
+<img width="857" height="216" alt="image" src="https://github.com/user-attachments/assets/d770a259-cf3f-4656-8460-c365e084afe0" />
+
+After playing this recording, we find that they have a github account and they also mention on how they bypassed the defences
+
+And we can see another base64 encoded text below this recording `VEhNe3MwY20xbnRfMDBwczNjX2Yxbmczcl9tMXNjbDFja30=`
+
+<img width="866" height="350" alt="image" src="https://github.com/user-attachments/assets/08021ce2-7065-4c3a-bba9-0465e360bace" />
+
+We decode it with Cyber and get the decoded text
+
+<img width="1540" height="227" alt="image" src="https://github.com/user-attachments/assets/bf801a12-4f5f-4874-9171-702e2a03560f" />
+
+Decoded text: `THM{s0cm1nt_00ps3c_f1ng3r_m1scl1ck}`
+
+**Answer the questions below**
+
+1. **_What is the username of the second operator talking to v3n0mbyt3 from the previous platform?_**
+
+Answer: `_myst1cv1x3n_`
+
+**Explanation:**
+
+We labelled the person behind the account `_myst1cv1x3n_` as the second operator because of their communication with `v3n0mbyt3_`
+
+2. _**What is the value of the flag?**_
+
+Answer: `THM{s0cm1nt_00ps3c_f1ng3r_m1scl1ck}`
+
+**Explanation:**
+
+We got a base64 encoded text from soundcloud and we decoded it and got our flag
+
+___________________________________________________________________
+
+We can see this recording is being liked by some people and can one of them be the third operator? Let's see
+
+<img width="859" height="128" alt="image" src="https://github.com/user-attachments/assets/c5c27055-0d3f-4a48-8228-ae5a6c71752b" />
+
